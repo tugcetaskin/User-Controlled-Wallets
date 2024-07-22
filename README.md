@@ -22,4 +22,4 @@ You need to obtain a session token for each of your end-users to initiate reques
 
 This is the part where we create a wallet for the specified blockchain. After this step, the user will still need to finish the wallet creation by providing the PIN and the recovery question.
 
-![Ekran görüntüsü 2024-07-22 001452](https://github.com/user-attachments/assets/598dbd63-3222-410a-9c15-31a661deedf9)
+![Ekran görüntüsü 2024-07-22 001452](https://github.com/user-attachments/assets/c62180fe-75f6-497e-9741-c9e2060349f1)
